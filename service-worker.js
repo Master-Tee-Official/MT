@@ -1,9 +1,9 @@
-const CACHE_NAME = 'master-T-cache-v1';
+const CACHE_NAME = '8ightnotes-cache-v1';
 const urlsToCache = [
   './', // Caches the root URL
   './index.html',
   './style.css',
-  './images/background.jpg', // Your background image
+  './images/8ightnotesimage.jpg', // Your background image
   './images/icon-192x192.png', // Your PWA icons
   './images/icon-512x512.png',
   // Add any other crucial assets here that you want to be available offline,

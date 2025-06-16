@@ -1,7 +1,7 @@
 {
-  "name": "Master T Official App",
-  "short_name": "Master T",
-  "description": "The official app for Master T's music, news, and updates.",
+  "name": "8ight Notes Official App",
+  "short_name": "8ight Notes",
+  "description": "The official app for 8ight Notes music, news, and updates.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1a1a1a",
